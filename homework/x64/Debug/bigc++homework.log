@@ -1,0 +1,9 @@
+﻿  源.cpp
+  The contents of <any> are available only with C++17 or later.
+C:\代码\一些尝试\面对对象\bigc++homework\源.cpp(132,1): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+C:\代码\一些尝试\面对对象\bigc++homework\源.cpp(248,1): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+C:\代码\一些尝试\面对对象\bigc++homework\源.cpp(505,25): warning C4101: “elementIndex”: 未引用的局部变量
+C:\代码\一些尝试\面对对象\bigc++homework\源.cpp(651,21): warning C4101: “i”: 未引用的局部变量
+C:\代码\一些尝试\面对对象\bigc++homework\源.cpp(853,29): warning C4101: “elementIndex”: 未引用的局部变量
+C:\代码\一些尝试\面对对象\bigc++homework\源.cpp(107): warning C4715: “shoppingmall::searchProductByName”: 不是所有的控件路径都返回值
+  bigc++homework.vcxproj -> C:\代码\一些尝试\面对对象\bigc++homework\x64\Debug\bigc++homework.exe

@@ -1,0 +1,7 @@
+iPhone-phone 5999.99 1000
+ASUS-Laptop 6499.99 1000
+daiannaflower 60.99 50
+cabuqinuoflower 80.99 50
+book 25 380
+bear 20 200
+airpods 999 1000

@@ -1,0 +1,5 @@
+ASUS Laptop,6499.99,2,2023-12-17
+cabuqinuoflower,80.99,1,2023-12-17
+iPhone-phone,5999.99,1,2023-12-23
+ASUS-Laptop,6499.99,1,2023-12-23
+cabuqinuoflower,80.99,1,2023-12-23
